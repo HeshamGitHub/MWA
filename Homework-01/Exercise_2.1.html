@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script>
+    function promiseFetch() {
+        let promise=fetch("https://randomuser.me/api/");
+        promise.then(data=>data.json())
+               // .then(data=>{
+               //      'name':data.name,
+               //      'gender':data.gender
+               //  })
+            .then(data=>alert(data));
+    }
+
+    async function asyncAwaitFetch() {
+        try{
+                let jsonPromise = await fetch("https://randomuser.me/api/");
+                alert(jsonPromise);
+                console.log(jsonPromise);
+            }catch(e){
+                alert(e);
+            }
+    }
+
+    </script>
+
+</head>
+<body>
+    <input type="submit" value="Promise Fetch Test" onclick="promiseFetch()"/>
+    <input type="submit" value="Async Await Fetch Test" onclick="asyncAwaitFetch()"/>
+    <input type="submit" value="Reactive Fetch Test" onclick="reactiveFetch()"/>
+</body>
+</html>
