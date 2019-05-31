@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="163d68a9-93f6-402f-9744-4e15ea8820a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework-01/Exercise_1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework-01/Exercise_1.2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework-01/Exercise_2.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework-01/Exercise_2.2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrialandError/Promise1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrialandError/ReactiveXTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework-02/Exercise_2.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework-02/Exercise_2.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework-01/Exercise_2.2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework-01/Exercise_2.2.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,30 +28,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_1.2.txt">
+        <entry file="file://$PROJECT_DIR$/TrialandError/Promise1.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrialandError/ReactiveXTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="170">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_2.1.html">
+        <entry file="file://$PROJECT_DIR$/Homework-02/Exercise_2.1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="113">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_2.2.txt">
+        <entry file="file://$PROJECT_DIR$/Homework-02/Exercise_2.2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="141">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrialandError/test.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -61,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -82,22 +90,16 @@
         <option value="$PROJECT_DIR$/Homework-01/Exercise_1.2.txt" />
         <option value="$PROJECT_DIR$/Homework-01/ThreeButtons.html" />
         <option value="$PROJECT_DIR$/Homework-01/Exercise_2.2.txt" />
+        <option value="$PROJECT_DIR$/TrialandError/test.js" />
+        <option value="$PROJECT_DIR$/Homework-02/Exercise_2.1.txt" />
+        <option value="$PROJECT_DIR$/Homework-02/Exercise.js" />
+        <option value="$PROJECT_DIR$/Homework-02/Exercise_2.2.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/MWA.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/dictionaries/Hesham.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="509" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="847" />
     <option name="height" value="686" />
   </component>
@@ -117,7 +119,12 @@
             <path>
               <item name="MWA" type="b2602c69:ProjectViewProjectNode" />
               <item name="MWA" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework-01" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework-02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MWA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MWA" type="462c0819:PsiDirectoryNode" />
+              <item name="TrialandError" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,6 +135,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -150,17 +158,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Exercise_2.1.html">
+  <component name="RunManager" selected="Node.js.Exercise_2.2.js">
     <configuration name="Exercise_2.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MWA/Homework-01/Exercise_2.1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MWA/Homework-01/Test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Exercise1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Exercise1.js" working-dir="$PROJECT_DIR$/Lecture1">
+    <configuration name="Exercise_1.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Homework-01/Exercise_1.1.js" working-dir="$PROJECT_DIR$/Homework-01">
       <method v="2" />
     </configuration>
-    <configuration name="Exercise_1.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Homework-01/Exercise_1.1.js" working-dir="$PROJECT_DIR$/Homework-01">
+    <configuration name="Exercise_2.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Exercise_2.2.js" working-dir="$PROJECT_DIR$/Homework-02">
       <method v="2" />
     </configuration>
     <configuration name="Promise1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Promise1.js" working-dir="$PROJECT_DIR$/TrialandError">
@@ -168,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Exercise_2.2.js" />
         <item itemvalue="JavaScript Debug.Exercise_2.1.html" />
         <item itemvalue="Node.js.Exercise_1.1.js" />
         <item itemvalue="JavaScript Debug.Test.html" />
         <item itemvalue="Node.js.Promise1.js" />
-        <item itemvalue="Node.js.Exercise1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -186,27 +194,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558983439136</updated>
-      <workItem from="1558983441442" duration="22238000" />
+      <workItem from="1558983441442" duration="28529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22238000" />
+    <option name="totallyTimeSpent" value="28529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="509" y="0" width="847" height="686" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="702" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24845488" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14955357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50074404" side_tool="true" visible="true" weight="0.34035087" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3501805" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.34035087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,16 +242,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrialandError/ReactiveXTest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TrialandError/Promise1.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture1/Exercise1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -258,10 +256,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_1.1.js">
+    <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_2.2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -274,15 +272,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_2.1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="227">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_2.2.txt">
+    <entry file="file://$PROJECT_DIR$/Homework-01/Exercise_1.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="261">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrialandError/Promise1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrialandError/ReactiveXTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrialandError/test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework-02/Exercise_2.1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework-02/Exercise_2.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>

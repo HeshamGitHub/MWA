@@ -1,0 +1,28 @@
+why we do want sometimes use setImmediate vs setTimeOut?
+
+SetImmediate callback is enqueued at Check Queue however SetTimeOut callback is enqueued at the Timer Queue,
+Once the required time is passed,based on the event looping thread current tick state it will decide which we one should be executed first,
+knowing that timers callback queue Precedes check queue.
+
+
+Explain difference between Process.nextTick and setImmediate?
+
+Process nextTick is enqueuing callback directly to the nextTick queue and setImmediate enqueue at check Queue however that
+nextTick queue call backs execution is always Precedes check queue.
+
+
+mention 10 core modules from node js?
+
+'dns',
+'domain',
+'Events',
+'fs',
+'http',
+'https',
+'module',
+'net',
+'os',
+'path',
+'punycode',
+'querystring
+
