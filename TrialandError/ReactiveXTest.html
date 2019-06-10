@@ -1,6 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <script src="https://unpkg.com/rxjs/bundles/rxjs.umd.min.js"></script>
+    <script>
+        const {Observable} = rxjs;
+        const {of}=rxjs;
+
+
+        //=================================================================
+        // var x=of(1,2,3,4);
+        // console.log("global done1");
+        // xss.subscribe((x)=>{console.log(x)});
+        // console.log("global done2");
+        // x.subscribe((x)=>{console.log(x)});
+        //  console.log("global do ne3");
+
+         //=================================================================
+
+    //     var myObservable2 = Observable.create(function (observer) {
+    //         console.log("create Observable")
+    //         observer.next(1);
+    //         observer.next(2);
+    //         observer.next(3);
+    //         console.log("emitting End");
+    //         setTimeout(() => {
+    //         observer.next(4);
+    //         observer.complete();
+    //     }, 1000);
+    // });
+    //
+    //
+    // console.log('just before Subscribtion');
+    // myObservable2.subscribe({
+    //     next: x => console.log('got value ' + x),
+    //     error: err => console.error('something wrong occurred: ' + err),
+    //     complete: () => console.log('done'),
+    // });
+    //     myObservable2.subscribe({
+    //         next: x => console.log('got value ' + x),
+    //         error: err => console.error('something wrong occurred: ' + err),
+    //         complete: () => console.log('done'),
+    //     });
+
+        const {BehaviorSubject} =rxjs;
+
+
+
+
+        var myObservable=new BehaviorSubject('Hi');
+        console.log('before subscribe');
+        myObservable.subscribe(x=>console.log(x));
+        myObservable.subscribe(x=>console.log(x));
+        myObservable.subscribe(x=>console.log(x));
+
+        console.log('before emit');
+        myObservable.next(9);
+        myObservable.next(3);
+
+        console.log('done');
+
+
+
+
+
+
+
+    </script>
 <head>
     <meta charset="UTF-8">
     <title>Title</title>

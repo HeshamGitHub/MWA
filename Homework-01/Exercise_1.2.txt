@@ -1,3 +1,0 @@
-remove number is asyncronous function,
-It will be converted to an call back invocation by the event loop once the
-main execution thread is finished
